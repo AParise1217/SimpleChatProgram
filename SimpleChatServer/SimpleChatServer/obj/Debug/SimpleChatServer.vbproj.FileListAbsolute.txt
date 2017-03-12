@@ -1,0 +1,10 @@
+c:\users\andrew\documents\visual studio 2015\Projects\SimpleChatServer\SimpleChatServer\bin\Debug\SimpleChatServer.exe.config
+c:\users\andrew\documents\visual studio 2015\Projects\SimpleChatServer\SimpleChatServer\bin\Debug\SimpleChatServer.exe
+c:\users\andrew\documents\visual studio 2015\Projects\SimpleChatServer\SimpleChatServer\bin\Debug\SimpleChatServer.pdb
+c:\users\andrew\documents\visual studio 2015\Projects\SimpleChatServer\SimpleChatServer\bin\Debug\SimpleChatServer.xml
+c:\users\andrew\documents\visual studio 2015\Projects\SimpleChatServer\SimpleChatServer\obj\Debug\SimpleChatServer.vbprojResolveAssemblyReference.cache
+c:\users\andrew\documents\visual studio 2015\Projects\SimpleChatServer\SimpleChatServer\obj\Debug\SimpleChatServer.Resources.resources
+c:\users\andrew\documents\visual studio 2015\Projects\SimpleChatServer\SimpleChatServer\obj\Debug\SimpleChatServer.vbproj.GenerateResource.Cache
+c:\users\andrew\documents\visual studio 2015\Projects\SimpleChatServer\SimpleChatServer\obj\Debug\SimpleChatServer.exe
+c:\users\andrew\documents\visual studio 2015\Projects\SimpleChatServer\SimpleChatServer\obj\Debug\SimpleChatServer.xml
+c:\users\andrew\documents\visual studio 2015\Projects\SimpleChatServer\SimpleChatServer\obj\Debug\SimpleChatServer.pdb
